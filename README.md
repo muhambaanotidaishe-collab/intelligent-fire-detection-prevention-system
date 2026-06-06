@@ -47,14 +47,15 @@ Future Improvements
 	•	Automatic fire suppression system
 
 Project Status
+
 Current Version: Complete Prototype
 
 Implemented Features
-1.Smoke detection
-2.Temperature Monitoring
-3.Gas leak detection
-4.Alarm activation
-5.LED warning indicators
+- Smoke detection
+- Temperature monitoring
+- Gas leak detection
+- Alarm activation
+- LED warning indicators
 
 Author
 
